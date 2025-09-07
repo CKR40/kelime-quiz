@@ -1,9 +1,18 @@
 import React, { useEffect, useMemo, useRef, useState } from 'react';
 import { SafeAreaView, View, Text, TextInput, TouchableOpacity, StyleSheet, Alert, Keyboard, ScrollView } from 'react-native';
 import AsyncStorage from '@react-native-async-storage/async-storage';
+
 import wordsData from './assets/words.json';
+import tarihData from './assets/tarih.json';
 
 const STORAGE_KEY = '@kelime_quiz_state_v2';
+const DATASET_KEY = '@kelime_quiz_dataset';
+
+// kullanılabilir datasetler
+const datasets = {
+  words: wordsData,
+  tarih: tarihData,
+};
 
 function shuffle(array) {
   const a = array.slice();
@@ -47,6 +56,7 @@ function syllabify(word) {
 }
 
 export default function App() {
+  const [datasetName, setDatasetName] = useState('words'); // aktif dataset
   const [orderedWords, setOrderedWords] = useState(() => shuffle(wordsData));
   const [idx, setIdx] = useState(0);
   const [answer, setAnswer] = useState('');
@@ -57,10 +67,11 @@ export default function App() {
   const [hintCount, setHintCount] = useState(0);
   const inputRef = useRef(null);
 
-  const total = orderedWords.length;
+  const currentDataset = datasets[datasetName];
+  const total = currentDataset.length;
   const current = orderedWords[idx] || { en: '-', tr: '-' };
 
-  const question = quizMode === 'en2tr' ? current.en : current.tr.split('|')[0];
+  const question = quizMode === 'en2tr' ? current.en : (current.tr || '').split('|')[0];
   const correctAnswer = quizMode === 'en2tr' ? current.tr : current.en;
 
   const remaining = Math.max(total - (stats.correct + stats.wrong + stats.passed), 0);
@@ -69,15 +80,15 @@ export default function App() {
   useEffect(() => {
     (async () => {
       try {
+        const savedDataset = await AsyncStorage.getItem(DATASET_KEY);
+        if (savedDataset && datasets[savedDataset]) {
+          setDatasetName(savedDataset);
+          setOrderedWords(shuffle(datasets[savedDataset]));
+        }
         const s = await AsyncStorage.getItem(STORAGE_KEY);
         if (s) {
           const parsed = JSON.parse(s);
-          let restoredOrder = parsed.orderedWords || wordsData;
-          if (!Array.isArray(restoredOrder) || restoredOrder.length !== wordsData.length) {
-            restoredOrder = shuffle(wordsData);
-          }
-          setOrderedWords(restoredOrder);
-          setIdx(Math.min(parsed.idx ?? 0, restoredOrder.length - 1));
+          setIdx(parsed.idx ?? 0);
           setStats(parsed.stats || { correct: 0, wrong: 0, passed: 0 });
           setQuizMode(parsed.quizMode || 'en2tr');
         }
@@ -92,9 +103,10 @@ export default function App() {
   // State kaydet
   useEffect(() => {
     if (!loaded) return;
-    const toSave = JSON.stringify({ orderedWords, idx, stats, quizMode });
+    const toSave = JSON.stringify({ idx, stats, quizMode });
     AsyncStorage.setItem(STORAGE_KEY, toSave).catch(() => {});
-  }, [orderedWords, idx, stats, quizMode, loaded]);
+    AsyncStorage.setItem(DATASET_KEY, datasetName).catch(() => {});
+  }, [idx, stats, quizMode, datasetName, loaded]);
 
   const onSubmit = () => {
     if (!answer.trim()) return;
@@ -102,7 +114,7 @@ export default function App() {
     Keyboard.dismiss();
     if (ok) {
       setStats(s => ({ ...s, correct: s.correct + 1 }));
-      goNext(true);
+      goNext();
     } else {
       setRevealed(true);
       setStats(s => ({ ...s, wrong: s.wrong + 1 }));
@@ -147,7 +159,7 @@ export default function App() {
           text: 'Evet',
           style: 'destructive',
           onPress: async () => {
-            const newOrder = shuffle(wordsData);
+            const newOrder = shuffle(currentDataset);
             setOrderedWords(newOrder);
             setIdx(0);
             setStats({ correct: 0, wrong: 0, passed: 0 });
@@ -161,6 +173,16 @@ export default function App() {
     );
   };
 
+  const changeDataset = (name) => {
+    setDatasetName(name);
+    setOrderedWords(shuffle(datasets[name]));
+    setIdx(0);
+    setStats({ correct: 0, wrong: 0, passed: 0 });
+    setAnswer('');
+    setRevealed(false);
+    setHintCount(0);
+  };
+
   const progress = useMemo(() => {
     const done = stats.correct + stats.wrong + stats.passed;
     return total ? Math.min(100, Math.round((done / total) * 100)) : 0;
@@ -172,6 +194,13 @@ export default function App() {
         <Text style={styles.title}>
           {quizMode === 'en2tr' ? 'İngilizce → Türkçe' : 'Türkçe → İngilizce'} Quiz
         </Text>
+
+        {/* Dataset Seçimi */}
+        <View style={styles.datasetRow}>
+          <SecondaryButton label="Kelimeler" onPress={() => changeDataset('words')} />
+          <SecondaryButton label="Tarih" onPress={() => changeDataset('tarih')} />
+        </View>
+        <Text style={{ textAlign: 'center', marginBottom: 10 }}>Aktif Dataset: {datasetName}</Text>
 
         <View style={styles.progressRow}>
           <Text style={styles.progressText}>Toplam: {total}</Text>
@@ -286,6 +315,7 @@ const styles = StyleSheet.create({
   safe: { flex: 1, backgroundColor: '#fff' },
   container: { padding: 16, gap: 12 },
   title: { fontSize: 22, fontWeight: '700', textAlign: 'center', marginTop: 8 },
+  datasetRow: { flexDirection: 'row', justifyContent: 'center', gap: 10, marginTop: 10 },
   progressRow: { flexDirection: 'row', justifyContent: 'space-between', marginTop: 8 },
   progressText: { fontSize: 14, opacity: 0.8 },
   badgesRow: { flexDirection: 'row', gap: 10, justifyContent: 'center', marginVertical: 10 },

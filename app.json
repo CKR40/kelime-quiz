@@ -24,7 +24,12 @@
       "package": "com.muho231.kelimequiz"
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "bundler": "metro",
+      "output": "static",
+      "favicon": "./assets/favicon.png",
+      "name": "kelime-quiz",
+      "shortName": "quiz"
+
     },
     "extra": {
       "eas": {

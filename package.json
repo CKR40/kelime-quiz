@@ -9,12 +9,13 @@
     "ios": "expo start --ios",
     "web": "expo start --web",
     "build:web": "npx expo export --platform web",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d web-build"
   },
   "dependencies": {
     "@expo/metro-runtime": "~5.0.4",
     "@react-native-async-storage/async-storage": "^2.2.0",
     "expo": "~53.0.22",
+    "expo-router": "^5.1.4",
     "expo-status-bar": "~2.2.3",
     "react": "19.0.0",
     "react-dom": "19.0.0",
