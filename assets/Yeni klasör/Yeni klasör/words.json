@@ -1,0 +1,2638 @@
+[
+    {
+        "en": "Relation",
+        "tr": "İlişki"
+    },
+    {
+        "en": "Important",
+        "tr": "Önemli|"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Conflict",
+        "tr": "Çatışma| anlaşmazlık"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Challenge",
+        "tr": "Zorluk| güçlük"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Division",
+        "tr": "Paylaştırma| bölüşme"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Implication",
+        "tr": "Muhtemel etki/sonuç"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Drawback",
+        "tr": "Sorun| sakınca"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Requirement",
+        "tr": "Gereksinim| ihtiyaç"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Save",
+        "tr": "Kurtarmak"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Convenience",
+        "tr": "Uygunluk| kolaylık"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Enhance",
+        "tr": "Geliştirmek| artırmak"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Detect",
+        "tr": "Tespit etmek"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Manipulate",
+        "tr": "Yönlendirmek"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Progress",
+        "tr": "Gelişmek| ilerlemek"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Transmit",
+        "tr": "Aktarmak| iletmek"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Inherit",
+        "tr": "Miras olarak almak"
+    },
+    {
+        "en": "Surround",
+        "tr": "Çevrelemek| kuşatmak"
+    },
+    {
+        "en": "Protect",
+        "tr": "Korumak"
+    },
+    {
+        "en": "Delicate",
+        "tr": "Hassas| zayıf"
+    },
+    {
+        "en": "Excessive",
+        "tr": "Aşırı| fazla"
+    },
+    {
+        "en": "Vigorous",
+        "tr": "Baskın| güçlü"
+    },
+    {
+        "en": "Elaborate",
+        "tr": "Karmaşık| ayrıntılı"
+    },
+    {
+        "en": "Swift",
+        "tr": "Hızlı| çabuk"
+    },
+    {
+        "en": "Mutual",
+        "tr": "Karşılıklı| ortak"
+    },
+    {
+        "en": "Convincing",
+        "tr": "İkna edici| inandırıcı"
+    },
+    {
+        "en": "Drastic",
+        "tr": "Ani| sert| güçlü"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Pure",
+        "tr": "Sade| saf"
+    },
+    {
+        "en": "Deny",
+        "tr": "İnkar etmek| geri çevirmek"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Hinder",
+        "tr": "Engellemek"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Create",
+        "tr": "Yaratmak| icat etmek"
+    },
+    {
+        "en": "Eliminate",
+        "tr": "Yok etmek| ortadan kaldırmak"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Encompass",
+        "tr": "Kapsamak| içermek"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Distract",
+        "tr": "Dikkatini dağıtmak"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Solution",
+        "tr": "Çözüm"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Make up for",
+        "tr": "Telafi etmek"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Look up to",
+        "tr": "Hayran olmak"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Come up with",
+        "tr": "Önermek"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Let",
+        "tr": "İzin vermek"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Alter",
+        "tr": "Değiştirmek"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Research",
+        "tr": "Araştırma"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Define",
+        "tr": "Tanımlamak| betimlemek"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Consume",
+        "tr": "Tüketmek| harcamak"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Responsible",
+        "tr": "Sorumlu"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Prone",
+        "tr": "Savunmasız| zayıf"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Allow",
+        "tr": "İzin vermek| olanak sağlamak"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Provide",
+        "tr": "Sağlamak"
+    },
+    {
+        "en": "Destroy",
+        "tr": "Yok etmek"
+    },
+    {
+        "en": "Significantly",
+        "tr": "Önemli ölçüde| çok"
+    },
+    {
+        "en": "Reduce",
+        "tr": "Azalmak| azaltmak"
+    },
+    {
+        "en": "Burden",
+        "tr": "Yük"
+    },
+    {
+        "en": "Impact",
+        "tr": "Etki"
+    },
+    {
+        "en": "Confine",
+        "tr": "Sınırlandırmak"
+    },
+    {
+        "en": "Respond",
+        "tr": "Karşılık vermek"
+    },
+    {
+        "en": "Uncover",
+        "tr": "Açığa çıkarmak| ortaya koymak"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Reverse",
+        "tr": "Engellemek| tersine çevirmek"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Modify",
+        "tr": "Değiştirmek"
+    },
+    {
+        "en": "Vague",
+        "tr": "Belirsiz"
+    },
+    {
+        "en": "Notable",
+        "tr": "Kayda değer"
+    },
+    {
+        "en": "Predict",
+        "tr": "Tahmin etmek| ön görmek"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Experience",
+        "tr": "Tecrübe etmek"
+    },
+    {
+        "en": "Intense",
+        "tr": "Yoğun"
+    },
+    {
+        "en": "Evidence",
+        "tr": "Kanıt"
+    },
+    {
+        "en": "Flourish",
+        "tr": "Gelişmek| ilerlemek"
+    },
+    {
+        "en": "Lead to",
+        "tr": "Sebep olmak| yol açmak"
+    },
+    {
+        "en": "Objective",
+        "tr": "Amaç| hedef"
+    },
+    {
+        "en": "Accelerate",
+        "tr": "Hızlandırmak"
+    },
+    {
+        "en": "Available",
+        "tr": "Mevcut"
+    },
+    {
+        "en": "Resist",
+        "tr": "Direnmek"
+    },
+    {
+        "en": "Rule out",
+        "tr": "Hesaba katmamak"
+    },
+    {
+        "en": "Indicate",
+        "tr": "Göstermek| ortaya koymak"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Evaluate",
+        "tr": "Değerlendirmek"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Look after",
+        "tr": "Bakmak| ilgilenmek"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Make up",
+        "tr": "Oluşturmak"
+    },
+    {
+        "en": "Obtain",
+        "tr": "Elde etmek"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Harmful",
+        "tr": "Zararlı"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Increase",
+        "tr": "Artmak| artırmak"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Include",
+        "tr": "İçermek| kapsamak"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Attract",
+        "tr": "Etkilemek"
+    },
+    {
+        "en": "Depend on",
+        "tr": "Bağlı olmak"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Develop",
+        "tr": "Gelişmek| geliştirmek"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Explore",
+        "tr": "Keşfetmek| aramak"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Establish",
+        "tr": "Kurmak| inşa etmek"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Solve",
+        "tr": "Çözmek"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Propose",
+        "tr": "Önermek| tavsiye etmek"
+    },
+    {
+        "en": "Approve",
+        "tr": "Onaylamak"
+    },
+    {
+        "en": "Expect",
+        "tr": "Ummak"
+    },
+    {
+        "en": "Affect",
+        "tr": "Etkilemek"
+    },
+    {
+        "en": "Cause",
+        "tr": "Sebep olmak| yol açmak"
+    },
+    {
+        "en": "Determine",
+        "tr": "Belirlemek"
+    },
+    {
+        "en": "Hazardous",
+        "tr": "Tehlikeli"
+    },
+    {
+        "en": "Desire",
+        "tr": "Arzulamak"
+    },
+    {
+        "en": "Vulnerable",
+        "tr": "Savunmasız| hassas"
+    },
+    {
+        "en": "Struggle",
+        "tr": "Mücadele"
+    },
+    {
+        "en": "Face",
+        "tr": "Yüzleşmek| karşılaşmak"
+    },
+    {
+        "en": "Willing",
+        "tr": "İstekli| hevesli"
+    },
+    {
+        "en": "Escape",
+        "tr": "Kurtulmak| kaçmak"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Measure",
+        "tr": "Tedbir| önlem"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Observe",
+        "tr": "Gözlemlemek"
+    },
+    {
+        "en": "Incredible",
+        "tr": "İnanılmaz"
+    },
+    {
+        "en": "Force",
+        "tr": "Güç| kuvvet"
+    },
+    {
+        "en": "Examine",
+        "tr": "İncelemek"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Extensively",
+        "tr": "Kapsamlı bir şekilde"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Attention",
+        "tr": "Dikkat"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Notorious",
+        "tr": "Namı kötü| kötü şöhretli"
+    },
+    {
+        "en": "Avoid",
+        "tr": "Kaçınmak"
+    },
+    {
+        "en": "Gain",
+        "tr": "Kazanmak| elde etmek"
+    },
+    {
+        "en": "Deliberate",
+        "tr": "Kasten| bilerek"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Diverse",
+        "tr": "Çeşitli| farklı"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Support",
+        "tr": "Desteklemek"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Follow",
+        "tr": "Takip etmek"
+    },
+    {
+        "en": "Require",
+        "tr": "Gerektirmek"
+    },
+    {
+        "en": "Benefit",
+        "tr": "Fayda| yarar"
+    },
+    {
+        "en": "Sustain",
+        "tr": "Sürdürmek"
+    },
+    {
+        "en": "Prompt",
+        "tr": "Hızlı| çabuk"
+    },
+    {
+        "en": "Deal with",
+        "tr": "Ele almak| ilgilenmek"
+    },
+    {
+        "en": "Notice",
+        "tr": "Fark etmek"
+    },
+    {
+        "en": "Attend",
+        "tr": "Katılmak"
+    },
+    {
+        "en": "Reputation",
+        "tr": "Ün| şöhret"
+    },
+    {
+        "en": "Represent",
+        "tr": "Temsil etmek"
+    },
+    {
+        "en": "Assume",
+        "tr": "Var saymak| farz etmek"
+    },
+    {
+        "en": "Massive",
+        "tr": "Büyük| devasa"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Exposure",
+        "tr": "Maruz kalma"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Addicted",
+        "tr": "Bağımlı"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Cope with",
+        "tr": "Ele almak| ilgilenmek"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Describe",
+        "tr": "Tasvir etmek"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Reach",
+        "tr": "Erişmek| ulaşmak"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Sound",
+        "tr": "Mantıklı"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Display",
+        "tr": "Göstermek| ortaya koymak"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Compare",
+        "tr": "Karşılaştırmak"
+    },
+    {
+        "en": "Virtually",
+        "tr": "Yaklaşık"
+    },
+    {
+        "en": "Cost",
+        "tr": "Maliyet"
+    },
+    {
+        "en": "Advance",
+        "tr": "Gelişme| ilerleme"
+    },
+    {
+        "en": "Process",
+        "tr": "Süreç"
+    },
+    {
+        "en": "Accompany",
+        "tr": "Eşlik etmek"
+    },
+    {
+        "en": "Legitimate",
+        "tr": "Yasal| meşru"
+    },
+    {
+        "en": "Merely",
+        "tr": "Sadece| yalnız"
+    },
+    {
+        "en": "Distinguish",
+        "tr": "Ayırt etmek"
+    },
+    {
+        "en": "Pressure",
+        "tr": "Baskı"
+    },
+    {
+        "en": "Quit",
+        "tr": "Bırakmak"
+    },
+    {
+        "en": "Incentive",
+        "tr": "Teşvik"
+    },
+    {
+        "en": "Feature",
+        "tr": "Özellik"
+    },
+    {
+        "en": "Primary",
+        "tr": "Ana| temel"
+    },
+    {
+        "en": "Obstacle",
+        "tr": "Engel"
+    },
+    {
+        "en": "Compelling",
+        "tr": "İkna edici| inandırıcı"
+    },
+    {
+        "en": "Ambiguous",
+        "tr": "Belirsiz| net olmayan"
+    },
+    {
+        "en": "Discover",
+        "tr": "Keşfetmek"
+    },
+    {
+        "en": "Accept",
+        "tr": "Kabul etmek"
+    },
+    {
+        "en": "Conduct",
+        "tr": "Uygulamak| yapmak"
+    },
+    {
+        "en": "Bring about",
+        "tr": "Sebep olmak"
+    },
+    {
+        "en": "Turn down",
+        "tr": "Reddetmek| geri çevirmek"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Offer",
+        "tr": "Tavsiye etmek| önermek"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "View",
+        "tr": "Görüş| bakış açısı"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Believe",
+        "tr": "İnanmak"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Emerge",
+        "tr": "Ortaya çıkmak"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Assert",
+        "tr": "İleri sürmek| iddia etmek"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Means",
+        "tr": "Yol| yöntem"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Pattern",
+        "tr": "Şekil| kalıp| desen"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Endure",
+        "tr": "Katlanmak"
+    },
+    {
+        "en": "Contain",
+        "tr": "İçermek"
+    },
+    {
+        "en": "Demand",
+        "tr": "Talep| istek"
+    },
+    {
+        "en": "Rely on",
+        "tr": "Güvenmek| bağlı olmak"
+    },
+    {
+        "en": "Call off",
+        "tr": "İptal etmek"
+    },
+    {
+        "en": "Decline",
+        "tr": "Azalmak"
+    },
+    {
+        "en": "Prove",
+        "tr": "İspatlamak"
+    },
+    {
+        "en": "Promote",
+        "tr": "Geliştirmek| artırmak"
+    },
+    {
+        "en": "Utilize",
+        "tr": "Kullanmak| faydalanmak"
+    },
+    {
+        "en": "Encourage",
+        "tr": "Teşvik etmek"
+    },
+    {
+        "en": "Relatively",
+        "tr": "Nispeten"
+    },
+    {
+        "en": "Consequence",
+        "tr": "Sonuç"
+    },
+    {
+        "en": "Comprehend",
+        "tr": "Anlamak"
+    },
+    {
+        "en": "Constitute",
+        "tr": "Oluşturmak"
+    },
+    {
+        "en": "Regard",
+        "tr": "Dikkate almak| düşünmek"
+    },
+    {
+        "en": "Cognitive",
+        "tr": "Bilişsel"
+    },
+    {
+        "en": "Threaten",
+        "tr": "Tehdit etmek"
+    },
+    {
+        "en": "Clear",
+        "tr": "Açık| net"
+    },
+    {
+        "en": "Failure",
+        "tr": "Başarısızlık"
+    },
+    {
+        "en": "Significant",
+        "tr": "Önemli| kayda değer"
+    },
+    {
+        "en": "Controversial",
+        "tr": "Tartışmalı"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Associated with",
+        "tr": "İlgili| alakalı| bağlantılı"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Difficulty",
+        "tr": "Zorluk| güçlük"
+    },
+    {
+        "en": "Suitable",
+        "tr": "Uygun| müsait"
+    },
+    {
+        "en": "Issue",
+        "tr": "Konu| mesele"
+    },
+    {
+        "en": "Rate",
+        "tr": "Oran| miktar"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Production",
+        "tr": "Üretim"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Boost",
+        "tr": "Artırmak| yükseltmek"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Ability",
+        "tr": "Beceri| yetenek"
+    },
+    {
+        "en": "Strike",
+        "tr": "Etkilemek"
+    },
+    {
+        "en": "Behaviour",
+        "tr": "Davranış"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Profound",
+        "tr": "Derin| büyük"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Accurate",
+        "tr": "Doğru| net"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Consistent",
+        "tr": "Tutarlı"
+    },
+    {
+        "en": "Figure out",
+        "tr": "Anlamak| çözmek"
+    },
+    {
+        "en": "Ensure",
+        "tr": "Garanti etmek"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Overtake",
+        "tr": "Aşmak| geçmek"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Lack",
+        "tr": "Eksik| yoksun"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Refuse",
+        "tr": "Geri çevirmek"
+    },
+    {
+        "en": "Result in",
+        "tr": "Sebep olmak"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Aware",
+        "tr": "Farkında| bilincinde"
+    },
+    {
+        "en": "Engage in",
+        "tr": "Katılmak| dahil olmak"
+    },
+    {
+        "en": "Occur",
+        "tr": "Olmak| meydana gelmek"
+    },
+    {
+        "en": "Numerous",
+        "tr": "Sayısız| çok"
+    },
+    {
+        "en": "Adopt",
+        "tr": "Benimsemek| kabul etmek"
+    },
+    {
+        "en": "Appropriate",
+        "tr": "Uygun"
+    },
+    {
+        "en": "Treat",
+        "tr": "Davranmak"
+    },
+    {
+        "en": "Diverse",
+        "tr": "Çeşitli| farklı"
+    },
+    {
+        "en": "Regulate",
+        "tr": "Düzenlemek"
+    },
+    {
+        "en": "Clarify",
+        "tr": "Açıklamak| izah etmek"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Disrupt",
+        "tr": "Bozmak| zarar vermek"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Exploitation",
+        "tr": "Sömürme| istismar"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Allocate",
+        "tr": "Pay etmek| tahsis etmek"
+    },
+    {
+        "en": "Viable",
+        "tr": "Uygulanabilir| geçerli"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Urgent",
+        "tr": "Acil"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Give up",
+        "tr": "Terk etmek| vazgeçmek"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Arbitrary",
+        "tr": "Rastgele| kazara"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Jeopardize",
+        "tr": "Tehlikeye atmak"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Conscious",
+        "tr": "Farkında| bilincinde"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Strengthen",
+        "tr": "Güçlendirmek"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Drop",
+        "tr": "Azalmak| azaltmak"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Prohibit",
+        "tr": "Yasaklamak"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Unique",
+        "tr": "Eşsiz| tek"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Exceed",
+        "tr": "Aşmak| geçmek"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Maintain",
+        "tr": "İleri sürmek| devam etmek"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Mandatory",
+        "tr": "Zorunlu"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Range from",
+        "tr": "Değişkenlik göstermek"
+    },
+    {
+        "en": "Capable",
+        "tr": "Becerikli| hünerli"
+    },
+    {
+        "en": "Consist of",
+        "tr": "-den oluşmak| meydana gelmek"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Noteworthy",
+        "tr": "Kayda değer| önemli"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Disappear",
+        "tr": "Yok olmak| gözden kaybolmak"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Colonize",
+        "tr": "Yaşamak| bir yere yerleşmek"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Species",
+        "tr": "Tür| çeşit"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Overcome",
+        "tr": "Üstesinden gelmek"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Estimate",
+        "tr": "Tahmin etmek| ön görmek"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "State",
+        "tr": "İfade etmek| söylemek"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Emphasize",
+        "tr": "Vurgulamak"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Base on",
+        "tr": "Temellendirmek| dayanmak"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Enable",
+        "tr": "Olanak sağlamak"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Identify",
+        "tr": "Belirlemek| tanımlamak"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Revise",
+        "tr": "Gözden geçirmek"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Explain",
+        "tr": "Açıklamak| izah etmek"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Discuss",
+        "tr": "Tartışmak"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Condition",
+        "tr": "Koşul / Hastalık"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Especially",
+        "tr": "Özellikle"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Preserve",
+        "tr": "Korumak| muhafaza etmek"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Deforestation",
+        "tr": "Çölleşme"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Exist",
+        "tr": "Var olmak"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Shift",
+        "tr": "Değişmek"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Common",
+        "tr": "Yaygın| ortak"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Remarkable",
+        "tr": "Kayda değer| göze çarpan"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Acknowledge",
+        "tr": "Kabul etmek"
+    },
+    {
+        "en": "Expand",
+        "tr": "Yayılmak"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Feasible",
+        "tr": "Uygulanabilir"
+    },
+    {
+        "en": "Initially",
+        "tr": "İlk olarak"
+    },
+    {
+        "en": "Melt",
+        "tr": "Erimek"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Opportunity",
+        "tr": "Fırsat"
+    },
+    {
+        "en": "Trigger",
+        "tr": "Tetiklemek"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Widespread",
+        "tr": "Yaygın"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Revolutionize",
+        "tr": "Değiştirmek"
+    },
+    {
+        "en": "Relieve",
+        "tr": "Azaltmak| ferahlatmak"
+    },
+    {
+        "en": "Priority",
+        "tr": "Öncelik"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Surpass",
+        "tr": "Aşmak| geçmek"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Assumption",
+        "tr": "Varsayım"
+    },
+    {
+        "en": "Coincide with",
+        "tr": "Rastlaşmak"
+    },
+    {
+        "en": "Overlook",
+        "tr": "Görmezden gelmek"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Irreversible",
+        "tr": "Geri alınamaz"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Launch",
+        "tr": "Başlamak| başlatmak"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Carry out",
+        "tr": "Yapmak| uygulamak"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Decrease",
+        "tr": "Azalmak| azaltmak"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Hospitable",
+        "tr": "Konuksever"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Distinctive",
+        "tr": "Seçkin"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Offspring",
+        "tr": "Yavru| evlat"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Eradicate",
+        "tr": "Kökünü kazımak"
+    },
+    {
+        "en": "Accuse of",
+        "tr": "Suçlamak"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Condemn",
+        "tr": "Kınamak"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Sustainable",
+        "tr": "Sürdürülebilir"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Enormous",
+        "tr": "Devasa"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Reluctant",
+        "tr": "İsteksiz"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Plausible",
+        "tr": "Mantıklı"
+    },
+    {
+        "en": "Take into account",
+        "tr": "Hesaba katmak"
+    },
+    {
+        "en": "Diagnose",
+        "tr": "Tanı koymak"
+    },
+    {
+        "en": "Vary",
+        "tr": "Değişiklik göstermek"
+    },
+    {
+        "en": "Triumph",
+        "tr": "Zafer"
+    },
+    {
+        "en": "Hereditary",
+        "tr": "Kalıtımsal"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Undisputed",
+        "tr": "Tartışmasız"
+    },
+    {
+        "en": "Violate",
+        "tr": "İhlal etmek"
+    },
+    {
+        "en": "Intervene",
+        "tr": "Araya girmek| müdahale etmek"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Committed to",
+        "tr": "Kendini adamış"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Deteriorate",
+        "tr": "Kötüleşmek"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Suspend",
+        "tr": "Askıya almak"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Persist",
+        "tr": "Devam etmek| ısrar etmek"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Vibrant",
+        "tr": "Enerjik| canlı"
+    },
+    {
+        "en": "Indispensable",
+        "tr": "Elzem| gerekli| temel"
+    },
+    {
+        "en": "Unprecedented",
+        "tr": "Eşi benzeri görülmemiş"
+    },
+    {
+        "en": "Stem from",
+        "tr": "Kaynaklanmak"
+    },
+    {
+        "en": "Initiate",
+        "tr": "Başlamak"
+    },
+    {
+        "en": "Indigenous",
+        "tr": "Yerli| yerel"
+    },
+    {
+        "en": "Considerably",
+        "tr": "Önemli ölçüde"
+    },
+    {
+        "en": "Groundbreaking",
+        "tr": "Çığır açan"
+    },
+    {
+        "en": "Neglect",
+        "tr": "Göz ardı etmek"
+    },
+    {
+        "en": "Convince",
+        "tr": "İkna etmek"
+    },
+    {
+        "en": "Perceive",
+        "tr": "Anlamak| algılamak"
+    },
+    {
+        "en": "Prominent",
+        "tr": "Göze çarpan"
+    },
+    {
+        "en": "Mislead",
+        "tr": "Yanıltmak"
+    },
+    {
+        "en": "Reveal",
+        "tr": "Açığa çıkarmak| ortaya koymak"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Discuss",
+        "tr": "Tartışmak"
+    },
+    {
+        "en": "Concerned",
+        "tr": "Endişeli"
+    },
+    {
+        "en": "Recognize",
+        "tr": "Tanımak| fark etmek"
+    },
+    {
+        "en": "Extinction",
+        "tr": "Yok olma"
+    },
+    {
+        "en": "Useful",
+        "tr": "Kullanışlı"
+    },
+    {
+        "en": "Conclusion",
+        "tr": "Sonuç"
+    },
+    {
+        "en": "Trustworthy",
+        "tr": "Güvenilir"
+    },
+    {
+        "en": "Assess",
+        "tr": "Değerlendirmek"
+    },
+    {
+        "en": "Discriminate",
+        "tr": "Ayrım yapmak"
+    },
+    {
+        "en": "Require",
+        "tr": "Gerektirmek"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Regarding",
+        "tr": "Alakalı| ilgili"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Seek",
+        "tr": "Aramak| araştırmak"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Persuade",
+        "tr": "İkna etmek"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Reach",
+        "tr": "Erişmek| ulaşmak"
+    },
+    {
+        "en": "Harness",
+        "tr": "Faydalanmak| kullanmak"
+    },
+    {
+        "en": "Permanent",
+        "tr": "Kalıcı"
+    },
+    {
+        "en": "Supply",
+        "tr": "Kaynak"
+    },
+    {
+        "en": "Spread",
+        "tr": "Yayılmak| yaymak"
+    },
+    {
+        "en": "Devastate",
+        "tr": "Ortadan kaldırmak"
+    },
+    {
+        "en": "Wonder",
+        "tr": "Merak etmek"
+    },
+    {
+        "en": "Achieve",
+        "tr": "Elde etmek| başarmak"
+    },
+    {
+        "en": "Brilliant",
+        "tr": "Muhteşem| harika"
+    },
+    {
+        "en": "Gain",
+        "tr": "Elde etmek| kazanmak"
+    },
+    {
+        "en": "Suffer",
+        "tr": "Açı çekmek"
+    },
+    {
+        "en": "Talent",
+        "tr": "Yetenek| beceri"
+    },
+    {
+        "en": "Complicated",
+        "tr": "Karmaşık"
+    },
+    {
+        "en": "Belief",
+        "tr": "İnanç"
+    },
+    {
+        "en": "Prevail",
+        "tr": "Yayılmak"
+    },
+    {
+        "en": "Structure",
+        "tr": "Yapı"
+    },
+    {
+        "en": "Scarce",
+        "tr": "Kıt| yetersiz| eksik"
+    },
+    {
+        "en": "Inseparable",
+        "tr": "Ayrılmaz"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Admire",
+        "tr": "Hayran olmak"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Proper",
+        "tr": "Uygun| müsait"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Incidental",
+        "tr": "Kazara| rastgele"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Derive from",
+        "tr": "Kökünden gelmek"
+    },
+    {
+        "en": "Attempt",
+        "tr": "Teşebbüs etmek"
+    },
+    {
+        "en": "Distinguished",
+        "tr": "Seçkin| ünlü"
+    },
+    {
+        "en": "Encounter",
+        "tr": "Karşılaşmak"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Attribute",
+        "tr": "Özellik"
+    },
+    {
+        "en": "Convey",
+        "tr": "Aktarmak| iletmek"
+    },
+    {
+        "en": "Defeat",
+        "tr": "Yenmek| üstesinden gelmek"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Rebel against",
+        "tr": "İsyan etmek"
+    },
+    {
+        "en": "Interpretation",
+        "tr": "Yorum"
+    },
+    {
+        "en": "Knowledge",
+        "tr": "Bilgi"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Restricted",
+        "tr": "Kısıtlayıcı"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Resist",
+        "tr": "Direnmek| karşı çıkmak"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Driving force",
+        "tr": "İtici güç"
+    },
+    {
+        "en": "Adverse",
+        "tr": "İstenmeyen kötü"
+    },
+    {
+        "en": "Disorder",
+        "tr": "Bozukluk"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Debate",
+        "tr": "Tartışma"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Invent",
+        "tr": "İcat etmek"
+    },
+    {
+        "en": "Application",
+        "tr": "Uygulama"
+    },
+    {
+        "en": "Aid",
+        "tr": "Yardım etmek"
+    },
+    {
+        "en": "Current",
+        "tr": "Güncel"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Catastrophe",
+        "tr": "Felaket"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Alleviate",
+        "tr": "Azaltmak| hafifletmek"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Dissatisfied",
+        "tr": "Tatmin olmayan"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Collaboration",
+        "tr": "İşbirliği"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Teem with",
+        "tr": "Dolu olmak"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Completely",
+        "tr": "Tamamen| bütünüyle"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Propose",
+        "tr": "Önermek"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Inspire",
+        "tr": "Etkilemek| ilham vermek"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Necessary",
+        "tr": "Gerekli"
+    },
+    {
+        "en": "Underlying",
+        "tr": "Altında yatan"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Retain",
+        "tr": "Sürdürmek| devam etmek"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Joint",
+        "tr": "Ortak| karşılıklı"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Reflect",
+        "tr": "Yansıtmak"
+    },
+    {
+        "en": "Highlight",
+        "tr": "Vurgulamak"
+    },
+    {
+        "en": "Vast",
+        "tr": "Geniş| büyük"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Event",
+        "tr": "Olay| etkinlik"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Expenditure",
+        "tr": "Gider| harcama"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Combine",
+        "tr": "Birleştirmek"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Remain",
+        "tr": "Durumunu korumak| sürdürmek"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Award",
+        "tr": "Ödül"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Reasonable",
+        "tr": "Mantıklı| makul"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Fragile",
+        "tr": "Hassak| kırılgan"
+    },
+    {
+        "en": "Precaution",
+        "tr": "Tedbir| önlem"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Remnant",
+        "tr": "Kalıntı"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Corruption",
+        "tr": "Yolsuzluk| yozlaşma"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Wander",
+        "tr": "Dolaşmak"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Emigrate",
+        "tr": "Göç etmek"
+    },
+    {
+        "en": "Intricate",
+        "tr": "Karmaşık"
+    },
+    {
+        "en": "Tremendous",
+        "tr": "Devasa"
+    },
+    {
+        "en": "Proximity",
+        "tr": "Yakınlık"
+    },
+    {
+        "en": "Devote",
+        "tr": "Adamak"
+    },
+    {
+        "en": "Steady",
+        "tr": "İstikrarlı"
+    },
+    {
+        "en": "Slight",
+        "tr": "Hafif| az"
+    },
+    {
+        "en": "Import",
+        "tr": "İthal etmek"
+    },
+    {
+        "en": "Sparse",
+        "tr": "Seyrek"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Affluence",
+        "tr": "Zenginlik"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Vital",
+        "tr": "Önemli"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Distribution",
+        "tr": "Dağıtım"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Exhausted",
+        "tr": "Tükenmiş"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Aspiration",
+        "tr": "Arzu"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Defect",
+        "tr": "Kusur"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Exception",
+        "tr": "İstisna"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Settle:",
+        "tr": "Yerleşmek"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Conviction:",
+        "tr": "Kanaat"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Abundance:",
+        "tr": "Bolluk"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Internal",
+        "tr": "Dâhili"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Draw on",
+        "tr": "Yararlanmak"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Put forward",
+        "tr": "İleri sürmek"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Notably",
+        "tr": "Özellikle"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Prosperous",
+        "tr": "Zengin"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Invent:",
+        "tr": "İcat etmek"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Consult:",
+        "tr": "Danışmak"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Experiment:",
+        "tr": "Deney"
+    },
+    {
+        "en": "Fierce:",
+        "tr": "Şiddetli"
+    },
+    {
+        "en": "Embrace:",
+        "tr": "Benimsemek"
+    },
+    {
+        "en": "Excavate:",
+        "tr": "Kazı yapmak"
+    },
+    {
+        "en": "Counterpart:",
+        "tr": "Mevkidaş"
+    },
+    {
+        "en": "Provision:",
+        "tr": "Koşul"
+    },
+    {
+        "en": "Call for:",
+        "tr": "Gerektirmek"
+    },
+    {
+        "en": "Prospect:",
+        "tr": "Olasılık"
+    },
+    {
+        "en": "Account for:",
+        "tr": "Nedenini açıklamak| oluşturmak"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Stimulate:",
+        "tr": "Uyarmak"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Acquire:",
+        "tr": "Kazanmak"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Vigorous:",
+        "tr": "Güçlü| sağlam"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Appeal:",
+        "tr": "Cezp etmek"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Set up:",
+        "tr": "Kurmak"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Investigate:",
+        "tr": "Araştırmak"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Efficacy:",
+        "tr": "Etki| tesir"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Run into:",
+        "tr": "Rast gelmek"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Urgent:",
+        "tr": "Acil"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Manifest:",
+        "tr": "Ortaya koymak"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Deprivation:",
+        "tr": "Yoksunluk"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Privilege:",
+        "tr": "Ayrıcalık"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Raise:",
+        "tr": "Artırmak"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Impose:",
+        "tr": "Dayatmak"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Apparent:",
+        "tr": "Belirgin| görünür"
+    },
+    {
+        "en": "nan",
+        "tr": "nan"
+    },
+    {
+        "en": "Do away with:",
+        "tr": "Yürürlükten kaldırmak"
+    }
+]
